@@ -38,7 +38,7 @@
     "handlebars": "^4.7.2",
     "https-proxy-agent": "^3.0.1",
     "karma": "^4.4.1",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "ng-recaptcha": "^5.0.0",
     "node-sass": "^4.13.1",
     "rxjs": "~6.4.0",
